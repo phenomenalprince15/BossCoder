@@ -1,7 +1,7 @@
 # BossCoder
  Learning, Coding and Interviews
 
-C++
+# C++
 
 Simple printing stuff: (end lines with ";")
 int - %d 32 bit, long - %ld 64 bit, char - %c char type, float - %f 32 bit real, double - %lf 64 bit real
@@ -10,7 +10,7 @@ cin >> val
 printf("Prince Sehrawat")
 cout << "Hello Prince"
 
-Conditionals :
+# Conditionals :
 #1
 if (condition) {
     statement1;
@@ -44,7 +44,7 @@ else {
     ...
 }
 
-Loops :
+# Loops :
 #1
 for ( <expression_1> ; <expression_2> ; <expression_3> )
     <statement>
@@ -75,7 +75,7 @@ int sum_of_four(int a, int b, int c, int d) {
     return sum;
 }
 
-Pointers :
+# Pointers :
 A pointer in C++ is used to share a memory address among different contexts (primarily functions). They are used whenever a function needs to modify the content of a variable, but it does not have ownership.
 
 In order to access the memory address of a variable, , prepend it with  sign. For example, &val returns the memory address of .
