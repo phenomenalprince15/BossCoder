@@ -83,7 +83,8 @@ In order to access the memory address of a variable, , prepend it with  sign. Fo
 This memory address is assigned to a pointer and can be shared among functions. For example, int *p = &val assigns the memory address of val to pointer p. To access the content of the memory pointed to, prepend the variable name with a *. For example, *p will return the value stored in  and any modification to it will be performed on val.
 
 #
-void increment(int *v) {
+
+void increment(int *v){
     (*v)++;
 }
 
