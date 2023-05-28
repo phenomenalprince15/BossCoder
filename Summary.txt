@@ -1,0 +1,24 @@
+Problems done :
+1. Rotation of arrays; left and right
+	- Brute force - O(n) & O(n)
+	- Optimal - O(n) & O(1)
+		- using array reversal
+
+2. Remove Duplicates;
+	- Brute force - O(n) & O(n) in worst case
+	- Optimal - O(n) & O(1)
+		- using two pointer approach
+		
+3. Finding the kth smallest and largest element in array;
+	- Brute force - sort, remove Duplicates, then print till new size you got from duplicates. O(NlogN) + O(n) & O(1)
+	- Priority Queue
+
+4. Checking if array is sorted;
+	- it can be rotated and sorted too.
+	- think of first and last elements as well.
+
+5. Sort an array with 0s, 1s and 2s in single scan.
+	- sorting
+	- count 0s, 1s and 2s - fill the array
+	- 3 pointers - most efficient algo. Dutch National Flag Algo. It's like sorting colors.
+		- Think of 0...low-1, low....mid-1, mid...high, high+1...high

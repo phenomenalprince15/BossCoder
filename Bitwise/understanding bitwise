@@ -1,0 +1,44 @@
+Understanding of Bits :
+
+- Bit wise AND (&)
+1 & 1 = 1
+1 & 0 = 0
+
+6 & 7 = 6
+0110 & 0111 = 0110 = 6
+
+Bitwise OR (|)
+1 | 1 = 1
+1 | 0 = 1
+0 | 0 = 0
+
+6 | 7 = 7
+
+Bitwise Not (~)
+~1 = 0
+~0 = 1
+
+~6 = 7
+int a = 6 (32 bits)
+000.....0110
+~(000....0110) = 111....1001 = -7 (-ve numbers are stored in 2's complement form)
+
+Bitwise XOR (^)
+1^1 = 0
+1^0 = 1
+0^0 = 0
+
+6 ^ 7 = 1
+
+Left shift :
+int a = 8
+a << 2
+
+8 = 1000
+8 << 2 = 100000 = 32
+
+Right shift :
+int a=8
+a >> 2
+8 = 1000
+8 >> 2 = 000010 = 2
