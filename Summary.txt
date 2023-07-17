@@ -1,4 +1,4 @@
-Problems done :
+Problems done on Arrays :
 1. Rotation of arrays; left and right
 	- Brute force - O(n) & O(n)
 	- Optimal - O(n) & O(1)
@@ -21,4 +21,16 @@ Problems done :
 	- sorting
 	- count 0s, 1s and 2s - fill the array
 	- 3 pointers - most efficient algo. Dutch National Flag Algo. It's like sorting colors.
-		- Think of 0...low-1, low....mid-1, mid...high, high+1...high
+		- Think of 0...low-1, low....mid-1, mid...high, high+1...n
+
+6. Moving all zeros to end.
+	- Sorting
+	- Two pointers
+	- Always think of low, mid, high and think that how mid should change and where swapping will get changed.
+
+7. 
+
+#####################################################################################
+
+Problems done on Strings :
+1. 

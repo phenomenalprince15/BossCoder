@@ -1,0 +1,49 @@
+Total Modules - 17 DSA
+manish.garg@bosscoderacademy.com
+WW22
+Module 1 - Complexity analysis
+	-
+
+Module 2 - Arrays
+	-
+
+Module 3 - Strings
+	-
+
+Module 4 - Basic Algorithms
+	-
+
+3:30 am - 5am - striver
+5 am - 7am - algorithm one daily
+7 - 9:30 problems solving
+Leetcode problems - Target 21. (6:30 - 11 PM)
+	-
+	
+
+
+DSA
+- June: 2 problems a day, → 10 problems (Assignment & homework problems)
+Struggling → Ask lot of doubts on TA support
+
+- July: 3 problems a day → 90 problems
+
+- August:4-5 problems a day → 120 problems
+- September: 4-5 problems a day → 150 problems
+400-500 total problems → leetcode
+System Design
+
+CS fundamentals → OS, DBMS, Networks + System Design (HLD & LLD) → Revision
+
+LLD - OOPS
+HLD
+
+Project - 1
+
+Revision - 3 weeks
+
+Mentor
+- Schedule
+
+Placements :
+LinkedIn - mentor -
+
